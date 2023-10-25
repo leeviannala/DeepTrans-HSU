@@ -1,0 +1,37 @@
+/home/leeviann/.conda/envs/vegesense/lib/python3.10/site-packages/torchvision/io/image.py:13: UserWarning: Failed to load image Python extension: libjpeg.so.8: cannot open shared object file: No such file or directory
+  warn(f"Failed to load image Python extension: {e}")
+
+Selected device: cpu
+
+Epoch: 0 | train loss: 259.4369 | re loss: 166.1080 | sad loss: 93.3289
+Epoch: 10 | train loss: 565.3824 | re loss: 402.0014 | sad loss: 163.3811
+Epoch: 20 | train loss: 104.1455 | re loss: 53.0098 | sad loss: 51.1356
+Epoch: 30 | train loss: 61.5812 | re loss: 28.7271 | sad loss: 32.8541
+Epoch: 40 | train loss: 51.5138 | re loss: 23.1271 | sad loss: 28.3867
+Epoch: 50 | train loss: 48.2682 | re loss: 18.5399 | sad loss: 29.7283
+Epoch: 60 | train loss: 42.6964 | re loss: 16.1256 | sad loss: 26.5708
+Epoch: 70 | train loss: 30.7448 | re loss: 12.2131 | sad loss: 18.5317
+Epoch: 80 | train loss: 42.7413 | re loss: 16.5857 | sad loss: 26.1556
+Epoch: 90 | train loss: 33.4959 | re loss: 10.4994 | sad loss: 22.9965
+Epoch: 100 | train loss: 23.2684 | re loss: 8.7013 | sad loss: 14.5671
+Epoch: 110 | train loss: 23.0484 | re loss: 7.0175 | sad loss: 16.0310
+Epoch: 120 | train loss: 19.1269 | re loss: 6.1344 | sad loss: 12.9925
+Epoch: 130 | train loss: 17.0223 | re loss: 6.2644 | sad loss: 10.7579
+Epoch: 140 | train loss: 16.2672 | re loss: 5.2469 | sad loss: 11.0204
+Epoch: 150 | train loss: 15.6201 | re loss: 4.7168 | sad loss: 10.9034
+Epoch: 160 | train loss: 15.6609 | re loss: 4.7252 | sad loss: 10.9357
+Epoch: 170 | train loss: 15.0948 | re loss: 3.9359 | sad loss: 11.1589
+Epoch: 180 | train loss: 14.3423 | re loss: 4.0109 | sad loss: 10.3314
+Epoch: 190 | train loss: 14.0255 | re loss: 3.8129 | sad loss: 10.2126
+Total computational cost: 33.504170656204224
+RE: 0.026584403982983087
+Class-wise RMSE value:
+Class 1 : 0.08743007267457664
+Class 2 : 0.05748469970054985
+Class 3 : 0.06647223583254953
+Mean RMSE: 0.07157063281384395
+Class-wise SAD value:
+Class 1 : 0.025284866350299553
+Class 2 : 0.08311138735585455
+Class 3 : 0.10099936082301436
+Mean SAD: 0.0697985381763895
